@@ -28,7 +28,7 @@ Players should copy the game Python file, Escape_the_Manor_of_Doom.py, to a loca
 
 Through their local terminal, the game is launched using,
 
-  >> python3 Escape_the_Manor_of_Doom.py
+  >> `python3 Escape_the_Manor_of_Doom.py`
 
 
 ## Usage
