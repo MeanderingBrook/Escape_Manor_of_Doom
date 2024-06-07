@@ -89,3 +89,6 @@ N / A
 
 
 ## Application Screenshots
+
+![Escape from the Manor of Doom: Introductory Splash Image] (/assets/images/Escape_Manor_Doom_Screenshot_Splash.png?raw=true "Escape from the Manor of Doom Introductory Splash Image")
+
